@@ -2,11 +2,11 @@
 theme: jekyll-theme-merlot
 title: HARRY ZN - Android Developer
 SEOTitle: HARRY ZN's Blog | Android Developer
-email:harry.zniu100@gmail.com
+email: harry.zniu100@gmail.com
 description: "Keep Passion, Keep Learning, Keep Challenge Yourself, Never Be Broken"
 keyword: "ZN, Harry, Harry ZN, Android, Google, Android Studio, Training, Study Notes, 牛子瑜, 牛子瑜的博客，Developer, Software Engineer"
-url:"https://zniu100.github.io"
-baseurl:""
+url: "https://zniu100.github.io"
+baseurl: ""
 
 #Sidebar settings
 sidebar: true
